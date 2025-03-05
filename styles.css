@@ -2,12 +2,12 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff;
+    background-color: #d7ebff;
     color: #333;
 }
 header {
-    background-color: #007bff;
-    color: white;
+    background-color: #60acf9;
+    color: #d9d9d9;
     text-align: center;
     padding: 20px;
 }
@@ -23,7 +23,7 @@ h2 {
     color: #007bff;
 }
 a {
-    color: #007bff;
+    color: #737373;
     text-decoration: none;
     transition: color 0.3s;
 }
@@ -37,14 +37,14 @@ li {
     margin: 10px 0;
 }
 footer {
-    background-color: #007bff;
-    color: white;
+    background-color: #60acf9;
+    color: #d9d9d9;
     text-align: center;
     padding: 10px;
     margin-top: 20px;
 }
 .skill-bar {
-    background-color: #ddd;
+    background-color: #a6a6a6;
     border-radius: 5px;
     overflow: hidden;
     height: 10px;
